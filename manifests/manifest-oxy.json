@@ -1,0 +1,319 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://www.e-codices.unifr.ch/metadata/iiif/cma-1955-74/manifest.json",
+	"@type": "sc:Manifest",
+	"label": "Cleveland, The Cleveland Museum of Art, Purchase from the J. H. Wade Fund 1955.74",
+	"metadata": [
+		{
+			"label": "Location",
+			"value": "Cleveland"
+		},
+		{
+			"label": "Collection Name",
+			"value": "The Cleveland Museum of Art"
+		},
+		{
+			"label": "Shelfmark",
+			"value": "Purchase from the J. H. Wade Fund 1955.74"
+		},
+		{
+			"label": "Document Type",
+			"value": "Manuscript"
+		},
+		{
+			"label": "DOI",
+			"value": "10.5076/e-codices-cma-1955-74"
+		},
+		{
+			"label": "Title (English)",
+			"value": "Gregory the Great, Morals in Job (Author portrait)"
+		},
+		{
+			"label": "Material",
+			"value": "Parchment"
+		},
+		{
+			"label": "Place of Origin (English)",
+			"value": "Engelberg"
+		},
+		{
+			"label": "Date of Origin (English)",
+			"value": "1143-1178"
+		},
+		{
+			"label": "Number of Pages",
+			"value": "1"
+		},
+		{
+			"label": "Dimensions",
+			"value": "ca. 27 x 20 cm"
+		},
+		{
+			"label": "Online Since",
+			"value": "2011-12-19"
+		},
+		{
+			"label": "Summary (English)",
+			"value": "The upper half of the illustrated side contains a naked Job and his three friends, the lower half shows the author, Gregory the Great, inspired by the Holy Spirit in the form of a dove, and a Benedictine monk, portrayed in the usual manner of Petrus Diaconus, the latter probably drawn by a different artist. On the back is a Leonine couplet, which attributes the leaf unambiguously to Engelberg. The leaf is, according to P. Karl Stadler’s 1787 description, the original opening of the first volume of the <i>Moralia Iob</i> by Gregory the Great (Engelberg, Stiftsbibliothek, <a href=\"http://www.e-codices.unifr.ch/en/list/one/bke/0020\">Cod. 20</a>, here immediately before f. 1). In the mid-19th century it was owned by Jacob Heinrich von Hefner-Alteneck (1811-1903) and was faithfully reproduced in his book <i>Trachten des Mittelalters</i> (1840-54, Vol. 1, Plate 57, p. 76f). In November 1953 the leaf was purchased from the J.H. Wade Fund for the Cleveland Museum of Art."
+		},
+		{
+			"label": "Digitized by",
+			"value": "The Cleveland Museum of Art"
+		},
+		{
+			"label": "Persons",
+			"value": "Patron: Frowinus, de Monte Angelorum; Author: Gregorius I, Papa"
+		},
+		{
+			"label": "Century",
+			"value": "12th century"
+		},
+		{
+			"label": "Text Language",
+			"value": "Latin"
+		}
+	],
+	"description": [
+		{
+			"@value": "The upper half of the illustrated side contains a naked Job and his three friends, the lower half shows the author, Gregory the Great, inspired by the Holy Spirit in the form of a dove, and a Benedictine monk, portrayed in the usual manner of Petrus Diaconus, the latter probably drawn by a different artist. On the back is a Leonine couplet, which attributes the leaf unambiguously to Engelberg. The leaf is, according to P. Karl Stadler’s 1787 description, the original opening of the first volume of the Moralia Iob by Gregory the Great (Engelberg, Stiftsbibliothek, Cod. 20, here immediately before f. 1). In the mid-19th century it was owned by Jacob Heinrich von Hefner-Alteneck (1811-1903) and was faithfully reproduced in his book Trachten des Mittelalters (1840-54, Vol. 1, Plate 57, p. 76f). In November 1953 the leaf was purchased from the J.H. Wade Fund for the Cleveland Museum of Art.",
+			"@language": "en"
+		}
+	],
+	"license": "http://creativecommons.org/licenses/by-nc/4.0/",
+	"attribution": "e-codices - Virtual Manuscript Library of Switzerland",
+	"logo": "https://www.e-codices.ch/img/logo-for-iiif-manifest.png",
+	"service": [
+		{
+			"@context": "https://www.w3.org/ns/webmention",
+			"@id": "https://www.e-codices.unifr.ch/webmention/receive",
+			"profile": "https://www.w3.org/ns/webmention",
+			"label": "e-codices Webmention Service"
+		}
+	],
+	"related": "https://www.e-codices.ch/en/list/one/cma/1955-74",
+	"within": "https://www.e-codices.ch/en/list/cma",
+	"seeAlso": [
+		{
+			"@id": "https://www.e-codices.unifr.ch/xml/tei_published/cma-1955-74.xml",
+			"@format": "application/tei+xml"
+		}
+	],
+	"sequences": [
+		{
+			"@id": "https://www.e-codices.unifr.ch/metadata/iiif/cma-1955-74/sequence/Sequence-224.json",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Standardabfolge",
+					"@language": "de"
+				},
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				},
+				{
+					"@value": "Séquence normale",
+					"@language": "fr"
+				},
+				{
+					"@value": "Sequenza normale",
+					"@language": "it"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "https://www.e-codices.unifr.ch/metadata/iiif/cma-1955-74/canvas/cma-1955-74_000b.json",
+					"@type": "sc:Canvas",
+					"label": "Ir",
+					"height": 4800,
+					"width": 3592,
+					"images": [
+						{
+							"@id": "https://www.e-codices.unifr.ch/metadata/iiif/cma-1955-74/annotation/cma-1955-74_000b.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://www.e-codices.unifr.ch/metadata/iiif/cma-1955-74/canvas/cma-1955-74_000b.json",
+							"resource": {
+								"@id": "https://www.e-codices.unifr.ch:443/loris/cma/cma-1955-74/cma-1955-74_000b.jp2/full/full/0/default/jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4800,
+								"width": 3592,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://www.e-codices.unifr.ch/loris/cma/cma-1955-74/cma-1955-74_000b.jp2",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://www.e-codices.unifr.ch/metadata/iiif/cma-1955-74/canvas/cma-1955-74_000a.json",
+					"@type": "sc:Canvas",
+					"label": "Iv",
+					"height": 4800,
+					"width": 3592,
+					"images": [
+						{
+							"@id": "https://www.e-codices.unifr.ch/metadata/iiif/cma-1955-74/annotation/cma-1955-74_000a.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://www.e-codices.unifr.ch/metadata/iiif/cma-1955-74/canvas/cma-1955-74_000a.json",
+							"resource": {
+								"@id": "https://www.e-codices.unifr.ch:443/loris/cma/cma-1955-74/cma-1955-74_000a.jp2/full/full/0/default/jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 4800,
+								"width": 3592,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://www.e-codices.unifr.ch/loris/cma/cma-1955-74/cma-1955-74_000a.jp2",
+									"profile": "http://iiif.io/api/image/2/level2.json"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "http://bde94751-1332-4787-999a-fe0c79bba745",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2317,
+					"width": 1694,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7b5e5643-7380-4990-8be8-187a58f19396",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.lib.harvard.edu/ids/iiif/48309544/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.lib.harvard.edu/ids/iiif/48309544",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader",
+												"mirroring",
+												"rotationArbitrary",
+												"regionSquare",
+												"sizeAboveFull"
+											],
+											"qualities": [
+												"default",
+												"bitonal",
+												"gray",
+												"color"
+											],
+											"formats": [
+												"jpg",
+												"tif",
+												"png",
+												"gif",
+												"webp"
+											]
+										}
+									]
+								},
+								"height": 2317,
+								"width": 1694
+							},
+							"on": "http://bde94751-1332-4787-999a-fe0c79bba745"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://abc17f66-fc02-4da7-ac23-04de3b189e39",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2550,
+					"width": 2088,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2c7f3262-4be6-4b5a-9a57-f1b4abd6c8dd",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.lib.harvard.edu/ids/iiif/18737483/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.lib.harvard.edu/ids/iiif/18737483",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader",
+												"mirroring",
+												"rotationArbitrary",
+												"regionSquare",
+												"sizeAboveFull"
+											],
+											"qualities": [
+												"default",
+												"bitonal",
+												"gray",
+												"color"
+											],
+											"formats": [
+												"jpg",
+												"tif",
+												"png",
+												"gif",
+												"webp"
+											]
+										}
+									]
+								},
+								"height": 2550,
+								"width": 2088
+							},
+							"on": "http://abc17f66-fc02-4da7-ac23-04de3b189e39"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6ee267a4-1e0b-495b-b5d1-2f3313fa792e",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2236,
+					"width": 1732,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://63ef9d33-2c37-4460-b2e1-5438ccefa2a6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/qm670kv1873%2FW168_000001_300/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://stacks.stanford.edu/image/iiif/qm670kv1873%2FW168_000001_300",
+									"profile": "http://iiif.io/api/image/2/level2"
+								},
+								"height": 2236,
+								"width": 1732
+							},
+							"on": "http://6ee267a4-1e0b-495b-b5d1-2f3313fa792e"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
